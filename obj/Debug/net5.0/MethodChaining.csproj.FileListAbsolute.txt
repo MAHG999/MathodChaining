@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.exe
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.deps.json
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.runtimeconfig.json
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.runtimeconfig.dev.json
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.dll
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\ref\MethodChaining.dll
+C:\Users\marco\source\repos\MethodChaining\bin\Debug\net5.0\MethodChaining.pdb
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.AssemblyInfo.cs
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.dll
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\ref\MethodChaining.dll
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.pdb
+C:\Users\marco\source\repos\MethodChaining\obj\Debug\net5.0\MethodChaining.genruntimeconfig.cache
